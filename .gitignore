@@ -1,0 +1,11 @@
+/target
+*.tar.gz
+*.db
+*.npy
+*.bin
+*.out
+
+vendor/
+dist/
+
+tmp/
